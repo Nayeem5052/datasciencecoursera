@@ -1,7 +1,6 @@
 ---
 title: "HelloWorld"
 date: "2025-11-23"
-output: pdf_document
 ---
 
 ## This is a markdown file
